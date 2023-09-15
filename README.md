@@ -1,4 +1,4 @@
-# edge_detection_xrays
+# edge_detection
 
 This program is designed to detect the edges of a .PNG image and save the new file without disrupting the original. Edge detection can have many applications in computer science, but for this project we will simply use two images of flowers to demonstrate the CANNY edge detection algorithm.
 
